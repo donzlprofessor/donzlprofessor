@@ -57,6 +57,11 @@ Python pipeline for CSV validation, data cleaning, duplicate detection, SQL pers
 
 IT, expected graduation: 2027
 
+## Certifications
+
+- **Python Intermediate** — MyFreedom, 2023 — [View Certificate](certificates/python-intermediate-2023.pdf)
+- **Python Development** — MyFreedom, 2024 — [View Certificate](certificates/python-development-2024.pdf)
+
 ## Let's Connect
 
 - [GitHub](https://github.com/donzlprofessor)
