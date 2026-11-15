@@ -24,6 +24,21 @@ Currently seeking **Junior Developer and Software Engineering Internship opportu
 
 ## Featured Projects
 
+### [AI Business Automation Hub](https://github.com/donzlprofessor/ai-business-automation-hub)
+**AI-Powered Business Process Automation Platform**
+
+Full-stack AI automation platform that processes customer inquiries, classifies messages using a local LLM, synchronizes contacts with HubSpot CRM, and sends priority notifications through Gmail.
+
+Built automated workflows with n8n, REST API integrations, and a Vue dashboard for monitoring business processes.
+
+**Stack:** Python, FastAPI, n8n, Ollama, PostgreSQL, HubSpot CRM, Gmail API, Vue, TypeScript, Docker
+
+**Testing:** 98 backend tests, 14 frontend tests, and 10 browser tests.
+
+[Source Code](https://github.com/donzlprofessor/ai-business-automation-hub)
+
+
+
 ### [NEXORA](https://github.com/donzlprofessor/NEXORA)
 **AI-Powered Business Analytics Dashboard**
 
